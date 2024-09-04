@@ -3,13 +3,13 @@
 Market basket analysis to analyse the purchase behaviour of individual customers to estimate with relative certainty, what items are more likely to be purchased individually or in combination with some other products.
 
 Data Exploration and Cleaning :
-Imported all the required libraries into python
-Imported the 5 dataset into python : Customers, Orders, Order_Items, Payments, Products
-Looked for any null values in the dataframes and treated them
-Looked for Outliers in the dataset
-Dropped the columns which are not required for the analysis
-Merged the dataframes into a final dataframe with correct foreign key
-Filtered the data only with orders which have order status as delivered\
+- Imported all the required libraries into python
+- Imported the 5 dataset into python : Customers, Orders, Order_Items, Payments, Products
+- Looked for any null values in the dataframes and treated them
+- Looked for Outliers in the dataset
+- Dropped the columns which are not required for the analysis
+- Merged the dataframes into a final dataframe with correct foreign key
+- Filtered the data only with orders which have order status as delivered\
 
 
 Data Visualization :
